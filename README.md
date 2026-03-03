@@ -1,4 +1,4 @@
-# NetoTest_bot — тренажёр английских слов (Telegram + PostgreSQL)
+# NetoTest_bot — тренажер английских слов 
 
 ## Возможности
 - Общий словарь (10+ слов) в PostgreSQL
